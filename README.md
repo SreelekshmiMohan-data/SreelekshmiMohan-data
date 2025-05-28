@@ -1,4 +1,4 @@
-<img src="https://your-header-image-url.com" alt="Header Image" width="100%" />
+
 
 <h1 align="center">Hi there! 👋 I'm Sreelekshmi Mohan</h1>  
 <h3 align="center">📊 Data Professional | PhD in Astrophysics | Insight-Driven Analyst</h3>  
